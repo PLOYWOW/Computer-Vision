@@ -60,5 +60,7 @@ for video in VIDEO:
     pyplot.savefig(video +".png")
     pyplot.close()
 
+    print(1)
+
     
 
