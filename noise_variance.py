@@ -61,6 +61,7 @@ for video in VIDEO:
     pyplot.close()
 
     print(1)
+    print(2)
 
     
 
